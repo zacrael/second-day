@@ -1,2 +1,2 @@
-# second-day
-pure css html
+# sample-home-page
+training HTML CSS smacss
